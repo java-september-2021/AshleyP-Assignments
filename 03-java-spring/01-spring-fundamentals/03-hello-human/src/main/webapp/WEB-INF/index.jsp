@@ -9,7 +9,7 @@
 <!-- For any Bootstrap that uses JS or jQuery-->
 <script src="/webjars/jquery/jquery.min.js"></script>
 <script src="/webjars/bootstrap/js/bootstrap.min.js"></script>
-	<title>Hello ${name}</title>
+	<title>Hello Human</title>
 </head>
 <body>
 	<h1>Hello ${ name }</h1>
